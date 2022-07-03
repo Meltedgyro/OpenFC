@@ -15,12 +15,12 @@ We have a discord server which is a great place to ask and/or contribute. Link t
 https://discord.gg/Xp6ggcGA7d
 
 ### Flight controllers
-#### F4
-currently none 😅
-#### F7
-currently none 😅
-#### H7
-currently none 😅
+  #### F4
+    currently none 😅
+  #### F7
+    currently none 😅
+  #### H7
+    currently none 😅
 
-###Electronics engeneer👷‍♂️💡 or a person 🙋🏽‍♂️🙋‍♀️ of any sort looking to help?
+### Electronics engeneer👷‍♂️💡 or a person 🙋🏽‍♂️🙋‍♀️ of any sort looking to help?
 The best thing to do is to join the discord where we can discuss issues, hardware/software bugs 🐛 and much more.
