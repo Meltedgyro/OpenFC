@@ -3,7 +3,7 @@ Open source flight controller
 
 ### What is this
 
-This is where I plan to upload free flight controller designs for different purpouses. I eventually hope to get more people on board and improve the flight controller technology in terms of reliability, cost, and flight performance.
+This is where I plan to upload free flight controller designs for different purposes. I eventually hope to get more people on board and improve flight controller technology regarding reliability, cost, and flight performance.
 
 ### How can I contribute?
 
